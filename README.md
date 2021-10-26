@@ -1,8 +1,8 @@
 # Phân chia công việc
 
-# 1. Làm hết phần Movie
+# 1. Làm hết phần Movie ( Đinh Gia Bảo )
 
-# 2. Làm hết phần Dashboard
+# 2. Làm hết phần Dashboard ( Phan Tuấn Tài )
 
 # ================================================================================================
 
