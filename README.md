@@ -1,3 +1,11 @@
+# Phân chia công việc
+
+# 1. Làm hết phần Movie
+
+# 2. Làm hết phần Dashboard
+
+# ================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
