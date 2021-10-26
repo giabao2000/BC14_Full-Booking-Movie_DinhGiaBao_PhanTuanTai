@@ -4,6 +4,8 @@
 
 # 2. Làm hết phần Dashboard ( Phan Tuấn Tài )
 
+# Link web trên heroku: https://full-booking-movie.herokuapp.com/?fbclid=IwAR0UbMJSWcsrGl-ZGB0oPXwyeStfrjbrCQGP008Bz0BxbJo_oqPetXfMV8Y
+
 # ================================================================================================
 
 # Getting Started with Create React App
